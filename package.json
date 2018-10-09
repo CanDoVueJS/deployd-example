@@ -1,0 +1,22 @@
+{
+  "name": "deployd-example",
+  "version": "1.0.0",
+  "description": "Deployd 예제 프로젝트입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanDoVueJS/deployd-example.git"
+  },
+  "keywords": [
+    "Deployd"
+  ],
+  "author": "martinyounghoonkim <hoons0131@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CanDoVueJS/deployd-example/issues"
+  },
+  "homepage": "https://github.com/CanDoVueJS/deployd-example#readme"
+}
