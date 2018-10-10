@@ -4,6 +4,9 @@
   "description": "Deployd 예제 프로젝트입니다.",
   "main": "index.js",
   "scripts": {
+    "create:db": "dpd create deployd-example",
+    "start:server": "cd deployd-example && dpd",
+    "start:dashboard": "cd deployd-example && dpd -d",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
