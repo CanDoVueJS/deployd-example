@@ -18,3 +18,5 @@ $ npm run start:server
 ```bash
 $ npm run start:dashboard
 ```
+
+서버가 띄워진 후에는 `localhost:2403` 에서 확인이 가능합니다. 대쉬보드에 접속하려면 `localhost:2403/dashboard` 에 접속하면 대시보드 역시 확인 가능합니다. 
